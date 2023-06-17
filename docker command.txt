@@ -1,0 +1,2 @@
+docker build -t qa_cloud_camp .  -  формирование образа
+docker run qa_cloud_camp  -  запуск
